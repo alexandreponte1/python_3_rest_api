@@ -36,6 +36,3 @@ You can now view the project at http://localhost:8000
 ## 5. Test the project
 
 For this you run `poetry run pytest`.
-
-
-
